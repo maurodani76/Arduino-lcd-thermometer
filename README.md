@@ -14,4 +14,4 @@ i2C scanner code to scan i2c device (result reported in serial monitor):
 
 https://playground.arduino.cc/Main/I2cScanner/
 
-address has to be modified in <b> line 12 of my thermometer code.
+address has to be modified in <b> line 12 </b> of my thermometer code.
