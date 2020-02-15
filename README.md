@@ -13,3 +13,5 @@ tested with Geekreit UNO and NANO
 i2C scanner code to scan i2c device (result reported in serial monitor):
 
 https://playground.arduino.cc/Main/I2cScanner/
+
+address has to be modified in <b> line 12 of my thermometer code.
