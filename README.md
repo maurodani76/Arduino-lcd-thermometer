@@ -7,3 +7,9 @@ I used this library:
 https://bitbucket.org/fmalpartida/new-liquidcrystal
 
 tested with Geekreit UNO and NANO
+
+-----------
+
+i2C scanner code to scan i2c device (result reported in serial monitor):
+
+https://playground.arduino.cc/Main/I2cScanner/
